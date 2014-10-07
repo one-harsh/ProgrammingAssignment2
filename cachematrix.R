@@ -1,5 +1,5 @@
 ## Caching matrix
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(m = matrix()) {
     cachematrix <- NULL
     
     set <- function( matrix ) {
